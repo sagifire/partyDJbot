@@ -1,0 +1,22 @@
+{
+  "commands" : {
+    "help" : [ "help" ],
+    "play" : [ "play" ],
+    "volume" : [ "volume" , "vol" ],
+    "stop" : [ "stop" ],
+    "queue" : [ "queue" ],
+    "skip" : [ "skip" ],
+    "songs" : [ "songs" ],
+    "keywords" : [ "genres" , "keywords" ]
+  },
+  "messages" : {
+    "Help" : "Help EN",
+    "command-not-found" : "Command not found, try type !help for info",
+    "founded-songs" : "Founded songs:",
+    "need-voice-chanel" : "Need voice chanel!",
+    "need-voice-chanel-access" : "Need voice chanel access!",
+    "song-not-found" : "Song not found",
+    "no-songs-in-db" : "No songs in db",
+    "Now playing" : "Now playing"
+  }
+}
